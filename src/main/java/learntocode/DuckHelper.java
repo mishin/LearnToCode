@@ -32,4 +32,4 @@ public class DuckHelper {
         Supplier<ArrayList> methodRef4 = ArrayList::new;
         Supplier<ArrayList> lambda4 = () -> new ArrayList();
     }
-}--154
+}--154 --157-158
